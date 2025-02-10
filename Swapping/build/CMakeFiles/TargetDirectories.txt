@@ -1,0 +1,3 @@
+/mnt/c/Users/g41/OneDrive - Capgemini/Desktop/C++ Assesments_Bosch_27_01_2025/Swapping/build/CMakeFiles/SwapTest.dir
+/mnt/c/Users/g41/OneDrive - Capgemini/Desktop/C++ Assesments_Bosch_27_01_2025/Swapping/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/g41/OneDrive - Capgemini/Desktop/C++ Assesments_Bosch_27_01_2025/Swapping/build/CMakeFiles/rebuild_cache.dir
